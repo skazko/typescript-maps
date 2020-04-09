@@ -1,4 +1,4 @@
-# Training project Maps
+# Training project: Maps
 
 ## Description
 
